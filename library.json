@@ -1,0 +1,19 @@
+{
+  "title": "H5PEditor.Voice",
+  "majorVersion": 1,
+  "minorVersion": 0,
+  "patchVersion": 0,
+  "runnable": 0,
+  "machineName": "H5PEditor.Voice",
+  "author": "Joubel AS",
+  "preloadedJs": [
+    {
+      "path": "dist/voice.js"
+    }
+  ],
+  "preloadedCss": [
+    {
+      "path": "styles/voice.css"
+    }
+  ]
+}
